@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 repository = "https://github.com/AzathothC2/azathoth_libload"
 license = "MIT"
+description = "A Dynamic loader for the AzathothC2 framework"
 
 [dependencies]
 azathoth-core = "0.1.1"
