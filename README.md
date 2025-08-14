@@ -28,4 +28,4 @@ MIT
 ## Changelog
 
 * 0.1.0: Initial commit
-* 0.1.1: Fixed lib.rs export issue and added changelog
+* 0.1.1: Fixed `lib.rs` export issue and added changelog
