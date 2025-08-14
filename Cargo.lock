@@ -11,6 +11,8 @@ checksum = "91e2d046db186928ab3830c86911c3341e52c0e7d6721bfa3323d62d554c5b76"
 [[package]]
 name = "azathoth-utils"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "27b625b605c258fbb819b5ecd5978b285a7e098576eeac37ec3ef71a52ac8448"
 dependencies = [
  "azathoth-core",
 ]
