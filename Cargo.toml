@@ -1,0 +1,15 @@
+[package]
+name = "azathoth_libload"
+version = "0.1.0"
+edition = "2024"
+repository = "https://github.com/AzathothC2/azathoth_libload"
+license = "MIT"
+
+[dependencies]
+azathoth-core = "0.1.1"
+azathoth-utils = {path = "../azathoth-utils" }
+
+[features]
+default = ["hasher"]
+hasher = ["azathoth-utils/hasher"]
+
