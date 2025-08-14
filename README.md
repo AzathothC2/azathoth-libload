@@ -1,4 +1,5 @@
 # Azathoth_libload
+![Crates.io Version](https://img.shields.io/crates/v/azathoth_libload)
 
 A cross-platform, dynamic binary loader for use in the [AzathothC2 framework](https://github.com/AzathothC2/)
 It provides a flexible API for loading binaries at runtime, with optional hashing-based symbol resolution.
