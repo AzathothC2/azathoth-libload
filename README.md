@@ -31,3 +31,4 @@ MIT
 * 0.1.0: Initial commit
 * 0.1.1: Fixed `lib.rs` export issue and added changelog
 * 0.1.2: Restored `ident2val(...)` function and cleaned up the Windows mod.rs file
+* 0.1.3: Updated to `azathoth_utils` version 0.1.1
